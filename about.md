@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### Contact me
+Programmer and data science enthusiast.
 
-[info@arhdwa.re](mailto:info@arhdwa.re)
+email: arhdware.info[at]gmail.com
